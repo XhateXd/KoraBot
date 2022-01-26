@@ -1,5 +1,6 @@
 # Kora
 A modular telegram Python bot running on python3 with an sqlalchemy database.
+liwdebsdk mc randi gandu lodu mc bisi
 
 Originally a Marie fork, Kora was created for personal use by [this person](https://t.me/Itz_kora). Feel free to add it to your groups though!
 
