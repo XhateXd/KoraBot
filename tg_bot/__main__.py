@@ -21,22 +21,25 @@ from tg_bot.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}
-I am a group management bot.	
+Hi {}, my name is {Xhate Bot}
+I can F*ck any person u want me to fuck.
+I am a group management bot.
+Created By:- @X_Hate
 Build by weebs for weebs, I specialize in managing groups.	
+Spammer Ki Ma Chhod denge R y ready bruhh??
 You can find my list of available commands with :	
 👉 /help.
 """
 
 
-BOT_IMG = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+BOT_IMG = "https://telegra.ph/file/929619ce17f18fddfc9ce.jpg"
 
 
 
 
 HELP_STRINGS = """
-*Helpful Commands :* [.](https://telegra.ph/file/2fbf54ecf569496431507.jpg)
-✧ /start: Starts me! You've probably already used this.
+*Helpful Commands :* [.](https://telegra.ph/file/929619ce17f18fddfc9ce.jpg)
+✧ /start: Bsdka Master I'm On! You've probably already used this.
 ✧ /help: Sends this message; I'll tell you more about myself!
 ✧ /settings: 
    ∘ in PM: will send you your settings for all supported modules.
